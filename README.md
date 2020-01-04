@@ -1,5 +1,5 @@
 # signature-verification
-Undergrad mini-project to verify signature of use![GitHub Logo](/images/logo.png)r.
+Undergrad mini-project to verify signature of user.
 
 This is a MATLAB project with UI that uses Speeded-Up Robust Features, Support Vector Machines and K-Means Clustering.
 
