@@ -1,5 +1,5 @@
 # signature-verification
-Undergrad mini-project to verify signature of user. Project was completed on April 17th, 2017 as dissertation submitted in partial fulfillment of the requirements for the award of degree of B. TECH.
+Undergrad (*sophomore year*) mini-project to verify signature of user. Project was completed on April 17th, 2017 as dissertation submitted in partial fulfillment of the requirements for the award of degree of B. TECH.
 
 
 This is a MATLAB project with UI that uses Speeded-Up Robust Features, Support Vector Machines and K-Means Clustering.
